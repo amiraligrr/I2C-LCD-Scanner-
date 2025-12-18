@@ -63,10 +63,10 @@ Install them using Arduino Library Manager.
 
 ## 💾 Clone This Repository
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+git clone https://github.com/amiraligrr/I2C-LCD-Scanner-
 ```
 
-Replace USERNAME and REPOSITORY_NAME with your repository link.
+
 
 ---
 
